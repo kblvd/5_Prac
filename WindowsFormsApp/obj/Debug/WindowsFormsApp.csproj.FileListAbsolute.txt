@@ -1,0 +1,8 @@
+C:\Users\Max Podobedov\source\repos\Prac5\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Max Podobedov\source\repos\Prac5\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Max Podobedov\source\repos\Prac5\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Max Podobedov\source\repos\Prac5\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Max Podobedov\source\repos\Prac5\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Max Podobedov\source\repos\Prac5\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Max Podobedov\source\repos\Prac5\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Max Podobedov\source\repos\Prac5\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
